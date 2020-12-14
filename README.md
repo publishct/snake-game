@@ -4,4 +4,4 @@
 
 ### https://www.freecodecamp.org/news/how-to-build-a-snake-game-in-javascript/
 
-#### Modified by Cynthia Trujillo with browser compatible keyboard events
+#### Modified by Cynthia Trujillo with browser compatible keyboard events per Mozilla Developer Network
